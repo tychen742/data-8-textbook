@@ -1,4 +1,9 @@
-# Computational and Inferential Thinking: The Foundations of Data Science
+
+# Lecture Notes for IST 3420 Introduction to Data Science and Management
+
+This material is based on the following book:
+
+## Computational and Inferential Thinking: The Foundations of Data Science
 
 2nd Edition by [Ani Adhikari](http://statistics.berkeley.edu/people/ani-adhikari), [John DeNero](http://denero.org), [David Wagner](https://www.cs.berkeley.edu/~daw/).
 
