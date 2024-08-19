@@ -78,7 +78,7 @@ Disease maps of various kinds are now a standard tool for tracking epidemics.
 
 **Towards Causality**
 
-Though the map gave Snow a strong indication that  the cleanliness of the water
+Though the map gave Snow a strong indication that the cleanliness of the water
 supply was the key to controlling cholera, he was still a long way from a
 convincing scientific argument that contaminated water was causing the spread of
 the disease. To make a more compelling case, he had to use the method of
