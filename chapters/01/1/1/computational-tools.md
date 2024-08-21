@@ -11,12 +11,14 @@ million-person-strong community of software developers and data scientists.
 **Getting Started.** 
 A Python program can be executed by any computer, regardless of its
 manufacturer or operating system, provided that support for the language is
-installed. If you wish to install the version of Python and its accompanying
-libraries that will match this text, we recommend the [Anaconda][download]
+installed. The current version of Python can be installed from [python.org][download1] although 
+some prefer solutions with accompanying
+libraries such as [Anaconda][download2]
 distribution that packages together the Python 3 language interpreter, IPython
 libraries, and the Jupyter notebook environment.
 
-   [download]: http://continuum.io/downloads
+   [download1]: https://python.org/
+   [download2]: https://continuum.io/downloads
 
 This text includes a complete introduction to all of these computational tools.
 You will learn to write programs, generate images from data, and work with
