@@ -37,4 +37,4 @@ the [Jupyter Book build instructions here](https://jupyterbook.org/start/build.h
 
 ==========================================
 
-# introdsm working. Do not modify before end of semester. 
+# introdsm working. Do not modify until semester ends. 
