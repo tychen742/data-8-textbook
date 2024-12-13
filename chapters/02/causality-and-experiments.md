@@ -9,10 +9,10 @@ is contracted and spread
 Does the death penalty have a deterrent effect? Is chocolate good for you? What
 causes breast cancer?
 
-All of these questions attempt to assign a cause to an effect. A careful
+All of these questions attempt to assign a **cause to an effect**. A careful
 examination of data can help shed light on questions like these. In this section
 you will learn some of the fundamental concepts involved in establishing
-causality.
+**causality**.
 
 Observation is a key to good science. An *observational study* is one in which
 scientists make conclusions based on data that they have observed but had no

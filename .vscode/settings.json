@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "../sphinx_venv/bin/python3",
+    "cSpell.words": [
+        "toctree"
+    ]
+}

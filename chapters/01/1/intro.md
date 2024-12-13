@@ -13,8 +13,8 @@ applications. A foundation in data science requires not only understanding
 statistical and computational techniques, but also recognizing how they apply
 to real scenarios.
 
-For whatever aspect of the world we wish to study—whether it's the Earth's
-weather, the world's markets, political polls, or the human mind—data we
+For whatever aspect of the world we wish to study — whether it's the Earth's
+weather, the world's markets, political polls, or the human mind — data we
 collect typically offer an incomplete description of the subject at hand. A
 central challenge of data science is to make reliable conclusions using this
 partial information.
